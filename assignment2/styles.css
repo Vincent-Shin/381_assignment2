@@ -422,3 +422,11 @@ footer {
 .login a:hover {
     text-decoration: underline;
 }
+#message-box {
+    display: none;
+    border: 2px solid;
+    background-color: #f9f9f9;
+    padding: 10px;
+    margin: 20px auto;
+    max-width: 2500px;
+}
